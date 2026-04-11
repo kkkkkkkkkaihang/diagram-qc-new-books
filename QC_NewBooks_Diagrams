@@ -1,13 +1,19 @@
 <mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Page-1" id="Kp6FPeNzpSVjXGXYABlV">
-    <mxGraphModel dx="821" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Part A — Flowchart" id="Kp6FPeNzpSVjXGXYABlV">
+    <mxGraphModel dx="604" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dd7Agdd_colYKtODkvS7-1" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=20;fontStyle=1;labelBackgroundColor=none;fontColor=#000000;" value="&lt;span style=&quot;text-align: start; caret-color: rgb(0, 245, 255); font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;QC NewBooks — Post Entry Logic&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="390" x="100" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dd7Agdd_colYKtODkvS7-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;START&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="250" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6CFgwaQ1dFVuAQz1_q5Z" name="Page-2">
+  <diagram id="6CFgwaQ1dFVuAQz1_q5Z" name="PAGE 2 · PART B — ERD">
     <mxGraphModel dx="582" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
