@@ -174,7 +174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6CFgwaQ1dFVuAQz1_q5Z" name="Part B — ERD">
-    <mxGraphModel dx="604" dy="658" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="light-dark(#53d5fd, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="573" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="light-dark(#53d5fd, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
